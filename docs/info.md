@@ -17,4 +17,4 @@ Use the first two switches
 
 ## External hardware
 
-Single lED
+Single LED
